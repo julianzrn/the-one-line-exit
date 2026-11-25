@@ -7,8 +7,8 @@ from pathlib import Path
 
 OUTPUT_PATH = Path("/output/entry.txt")
 
-OPENING = "I quit: after five years of circling back, touching base, "
-LANDING = "and taking things offline, I am finally taking myself offline."
+OPENING = "I quit: after five years of circling back, touching base, and taking things offline, "
+LANDING = "I am finally taking myself offline."
 
 ENTRY = OPENING + LANDING
 
